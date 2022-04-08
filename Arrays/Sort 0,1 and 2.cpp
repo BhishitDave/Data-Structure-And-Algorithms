@@ -1,5 +1,4 @@
 /*
-     Name: Bhishit Dave
      Link : https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#
      Link : https://leetcode.com/problems/sort-colors/
      Logic: 2 pointer approach

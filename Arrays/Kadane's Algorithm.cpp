@@ -1,5 +1,4 @@
 /*
-     Name: Bhishit Dave
      Link : https://leetcode.com/problems/maximum-subarray/submissions/
      Logic: based on dp
      Source: tuf ,pepcoding
